@@ -19,7 +19,7 @@ Ele extrai o nome das obras e preços, no fim salva os dados em um arquivo CSV.
    
 pip install -r requirements.txt
 
-4. Execute o robô:
+3. Execute o robô:
    
 python main.py
 O arquivo precos_books.csv será salvo na pasta data/.
